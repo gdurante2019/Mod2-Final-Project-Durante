@@ -1,10 +1,5 @@
 
-# Final Project Submission, Module 2
-
-- Student name: Gina Durante
-- Student pace: full time (4/15/19 cohort)
-- Instructor name: Rafael Carrasco
-- Blog post URL: https://github.com/gdurante2019/gdurante2019.github.io/blob/master/_posts/2019-07-01-what_do_we_know_about_discounts_driving_sales.markdown 
+Blog post URL: https://github.com/gdurante2019/gdurante2019.github.io/blob/master/_posts/2019-07-01-what_do_we_know_about_discounts_driving_sales.markdown 
 
 # Project Description
 
